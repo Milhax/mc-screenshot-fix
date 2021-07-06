@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# MC Screenshot Fix
 
-## Setup
+# Info
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod fixes(MC-200083)[https://bugs.mojang.com/browse/MC-200083] which, on GNU/Linux systems (in my case Manjaro specifically), causes the game to hang (or sometimes crash) when clicking a screenshot path in chat.
 
-## License
+## Install
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Drag and dro a release in your mods folder
+
+## Credits
+
+Pretty much entirely copy-pasted from (MCCT)[https://github.com/SmylerMC/mcct] by (SmylerMC)[https://github.com/SmylerMC]
