@@ -10,4 +10,4 @@ Drag and dro a release in your mods folder
 
 ## Credits
 
-Pretty much entirely copy-pasted from [MCCT](https://github.com/SmylerMC/mcct) by (SmylerMC)[https://github.com/SmylerMC]
+Pretty much entirely copy-pasted from [MCCT](https://github.com/SmylerMC/mcct) by [SmylerMC](https://github.com/SmylerMC)
